@@ -1,0 +1,20 @@
+Thank you for using DockVita, developed by TripodFound. Your privacy is important to us, and we want to assure you that our app is designed with your security and data protection in mind.
+
+No Data Collection
+DockVita does not collect, store, or share any personal data, usage information, or device details. The app operates entirely on your device and does not transmit any information to external servers or third parties.
+
+Permissions
+DockVita may require certain system permissions to function properly. However, these permissions are used solely for the app’s core functionality and are never used to collect or transmit data.
+
+Third-Party Services
+DockVita does not integrate with third-party services, analytics tools, or advertising networks.
+
+Changes to This Privacy Policy
+Since DockVita does not collect any data, updates to this policy are unlikely. However, if any changes occur, we will update this document accordingly.
+
+Contact
+If you have any questions or concerns about this privacy policy, please contact us at:
+pmig749@gmail.com
+
+By using DockVita, you agree to this privacy policy.
+
