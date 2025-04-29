@@ -1,0 +1,5 @@
+MainPackage=D:\VitaDockUWP\VitaDock_CameraUWP\VitaDock_CameraUWP\bin\x64\Release\VitaDock_CameraUWP_1.0.7.0_x64.appx
+ResourcePack=D:\VitaDockUWP\VitaDock_CameraUWP\VitaDock_CameraUWP\bin\x64\Release\VitaDock_CameraUWP_1.0.7.0_scale-100.appx
+ResourcePack=D:\VitaDockUWP\VitaDock_CameraUWP\VitaDock_CameraUWP\bin\x64\Release\VitaDock_CameraUWP_1.0.7.0_scale-125.appx
+ResourcePack=D:\VitaDockUWP\VitaDock_CameraUWP\VitaDock_CameraUWP\bin\x64\Release\VitaDock_CameraUWP_1.0.7.0_scale-150.appx
+ResourcePack=D:\VitaDockUWP\VitaDock_CameraUWP\VitaDock_CameraUWP\bin\x64\Release\VitaDock_CameraUWP_1.0.7.0_scale-400.appx
